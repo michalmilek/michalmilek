@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://michalmilek.pl](https://michalmilek.pl)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react, js, html/css**
 
 - 📫 How to reach me **mmilek1337@gmail.com**
 
