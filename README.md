@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michalmilek&label=Profile%20views&color=0e75b6&style=flat" alt="michalmilek" /> </p>
 
-- 🔭 I’m currently working on **React, Redux - ecommerceapp**
+- 🔭 I’m currently working on **Custom search engine project**
 
 - 👨‍💻 All of my projects are available at [https://michalmilek.pl](https://michalmilek.pl)
 
