@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Custom search engine project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/michalmilek?tab=repositories]
+- 👨‍💻 All of my projects are available <b><a href="https://github.com/michalmilek?tab=repositories">here</a></b>
 
 - 💬 Ask me about **react, js, html/css**
 
