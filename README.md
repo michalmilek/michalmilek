@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michał Miłek</h1>
-<h3 align="center">A passionate frontend developer from Poland, rather than checking my most popular ones projects check the latest.</h3>
+<h3 align="center">A passionate frontend developer from Poland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michalmilek&label=Profile%20views&color=0e75b6&style=flat" alt="michalmilek" /> </p>
 
