@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michalmilek&label=Profile%20views&color=0e75b6&style=flat" alt="michalmilek" /> </p>
 
-- 🔭 I’m currently working on **Saas project**
+- 🔭 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available <b><a href="https://github.com/michalmilek?tab=repositories">here</a></b>
 
-- 💬 Ask me about **react, JS, HTML/CSS, CSS frameworks, NextJS, TS**
+- 💬 Ask me about **React, JS, HTML/CSS, CSS frameworks, NextJS, TS, Nest, Express**
 
 - 📫 How to reach me **mmilek1337@gmail.com**
 
