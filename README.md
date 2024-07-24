@@ -11,6 +11,8 @@ I'm a frontend developer from Poland. I specialize in React, but im open to writ
   - NextJS
   - Nest.js
   - React Native
+  - Angular
+  - Vue
 
 ## Get in Touch
 
