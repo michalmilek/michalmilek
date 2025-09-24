@@ -1,19 +1,20 @@
 # Hi there 👋
 
-I'm a frontend developer from Poland. I specialize in React, but im open to write in new technologies - even BE or Mobile isnt a problem
+I'm a developer from Poland.
 
 ## About Me
 
 - **Location**: Poland
 - **Profession**: Frontend Developer
 - **Technologies**: 
-  - React (commercial)
-  - NextJS (commercial)
+  - React
+  - Next
   - Nest.js
   - React Native
-  - Angular.js (commercial)
+  - Angular.js
   - Angular (+2)
   - Vue
+  - Nuxt
   - Laravel
   - SQL
   - Docker
